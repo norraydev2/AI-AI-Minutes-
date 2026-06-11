@@ -1,0 +1,14 @@
+2026/05/20-17:55:25.648 4d98 Reusing MANIFEST C:\Users\User\AI_test\test-suite\test-reports\chrome-user-data\Default\IndexedDB\https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/20-17:55:25.649 4d98 Recovering log #65
+2026/05/20-17:55:25.649 4d98 Reusing old log C:\Users\User\AI_test\test-suite\test-reports\chrome-user-data\Default\IndexedDB\https_www.figma.com_0.indexeddb.leveldb/000065.log 
+2026/05/20-17:55:25.649 4d98 Delete type=2 #63
+2026/05/20-17:55:25.917 4d98 Level-0 table #70: started
+2026/05/20-17:55:25.936 4d98 Level-0 table #70: 646 bytes OK
+2026/05/20-17:55:25.938 4d98 Delete type=0 #65
+2026/05/20-17:55:25.939 6a08 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 665 : 1
+2026/05/20-17:55:25.939 6a08 Compacting 1@0 + 1@1 files
+2026/05/20-17:55:25.952 6a08 Generated table #71@0: 88 keys, 1659 bytes
+2026/05/20-17:55:25.952 6a08 Compacted 1@0 + 1@1 files => 1659 bytes
+2026/05/20-17:55:25.955 6a08 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/20-17:55:25.955 6a08 Delete type=2 #70
+2026/05/20-17:55:25.955 6a08 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 665 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)

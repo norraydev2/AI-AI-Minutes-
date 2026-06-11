@@ -1,0 +1,23 @@
+# Playwright 測試配置
+
+base_url: "http://192.168.88.30/ai-minutes-user"
+login_path: "/login"
+dashboard_path: "/dashboard"
+
+# 測試帳號
+test_account:
+  username: "youyouxiang2@2925.com"
+  password: "123"
+
+# 驗證碼配置
+code_url: "http://192.168.88.72:9963/ai-minutes/"
+code_regex: "\\b\\d{6}\\b"
+
+# 瀏覽器配置
+browser:
+  headless: true
+  slow_mo: 200
+  viewport_width: 1440
+  viewport_height: 900
+  locale: "zh-HK"
+  timezone_id: "Asia/Hong_Kong"
