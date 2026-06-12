@@ -186,23 +186,23 @@
 
 ### 5.1 登入頁面
 
-![登入頁面](./14_TC-LOGIN-002_登入頁 UI 驗證/screenshot/step1_login_page.png)
+![登入頁面](./test-reports/14_TC-LOGIN-002_登入頁 UI 驗證/screenshot/step1_login_page.png)
 
 ### 5.2 主頁
 
-![主頁](./02_TC-HOME-001_主頁/screenshot/step1_nav.png)
+![主頁](./test-reports/02_TC-HOME-001_主頁/screenshot/step1_nav.png)
 
 ### 5.3 充值頁面
 
-![充值頁面](./03_TC-TOPUP-001_充值/screenshot/step1_topup_page.png)
+![充值頁面](./test-reports/03_TC-TOPUP-001_充值/screenshot/step1_topup_page.png)
 
 ### 5.4 會議記錄
 
-![會議記錄](./05_TC-MEETING-001_會議記錄/screenshot/step1_meeting_page.png)
+![會議記錄](./test-reports/05_TC-MEETING-001_會議記錄/screenshot/step1_meeting_page.png)
 
 ### 5.5 使用記錄
 
-![使用記錄](./06_TC-USAGE-001_使用記錄/screenshot/step1_usage_page.png)
+![使用記錄](./test-reports/06_TC-USAGE-001_使用記錄/screenshot/step1_usage_page.png)
 
 ---
 
