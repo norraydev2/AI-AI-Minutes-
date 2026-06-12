@@ -56,8 +56,8 @@
 | 編號 | 測試名稱 | 測試內容 | 結果 | 詳情 |
 |------|---------|---------|------|------|
 | TC-LOGIN-001 | 登入流程驗證 | 測試帳號密碼登入、OTP 驗證、設備驗證 | ✅ 4/5 通過 | [查看詳情](https://github.com/norraydev2/AI-AI-Minutes-/blob/main/test-reports/01_TC-LOGIN-001_%E7%99%BB%E5%85%A5/result.md) |
-| TC-LOGIN-002 | 登入頁 UI 驗證 | 測試頁面佈局、間距、樣式 | ✅ 6/6 通過 | [查看詳情](#tc-login-002) |
-| TC-HOME-001 | 主頁加載驗證 | 測試主頁是否正常顯示 | ✅ 2/3 通過 | [查看詳情](#tc-home-001) |
+| TC-LOGIN-002 | 登入頁 UI 驗證 | 測試頁面佈局、間距、樣式 | ✅ 6/6 通過 | [查看詳情](https://github.com/norraydev2/AI-AI-Minutes-/blob/main/test-reports/14_TC-LOGIN-002_%E7%99%BB%E5%85%A5%E9%A0%81%20UI%20%E9%A9%97%E8%AD%89/result.md) |
+| TC-HOME-001 | 主頁加載驗證 | 測試主頁是否正常顯示 | ✅ 2/3 通過 | [查看詳情](https://github.com/norraydev2/AI-AI-Minutes-/blob/main/test-reports/02_TC-HOME-001_%E4%B8%BB%E9%A0%81/result.md) |
 | TC-HOME-002 | 主頁 UI 佈局 | 測試側邊欄、主內容區間距 | ⏳ 待執行 | [查看詳情](#tc-home-002) |
 | TC-TOPUP-001 | 充值頁面加載 | 測試充值頁面、支付方式 | ✅ 2/4 通過 | [查看詳情](#tc-topup-001) |
 | TC-TOPUP-002 | 充值金額輸入 | 測試金額輸入框驗證 | ✅ 1/2 通過 | [查看詳情](#tc-topup-002) |
