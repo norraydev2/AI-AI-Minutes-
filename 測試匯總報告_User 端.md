@@ -186,23 +186,23 @@
 
 ### 5.1 登入頁面
 
-![登入頁面](./test-reports/14_TC-LOGIN-002_登入頁 UI 驗證/screenshot/step1_login_page.png)
+![登入頁面](https://github.com/norraydev2/AI-AI-Minutes-/blob/main/test-reports/01_TC-LOGIN-001_%E7%99%BB%E5%85%A5/screenshots/step1_login_page.png)
 
 ### 5.2 主頁
 
-![主頁](./test-reports/02_TC-HOME-001_主頁/screenshot/step1_nav.png)
+![主頁](https://github.com/norraydev2/AI-AI-Minutes-/blob/main/test-reports/02_TC-HOME-001_%E4%B8%BB%E9%A0%81/screenshots/step1_nav.png)
 
 ### 5.3 充值頁面
 
-![充值頁面](./test-reports/03_TC-TOPUP-001_充值/screenshot/step1_topup_page.png)
+![充值頁面](https://github.com/norraydev2/AI-AI-Minutes-/blob/main/test-reports/03_TC-TOPUP-001_%E5%85%85%E5%80%BC/screenshots/step1_topup_page.png)
 
 ### 5.4 會議記錄
 
-![會議記錄](./test-reports/05_TC-MEETING-001_會議記錄/screenshot/step1_meeting_page.png)
+![會議記錄](https://github.com/norraydev2/AI-AI-Minutes-/blob/main/test-reports/05_TC-MEETING-001_%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84/screenshots/step1_meeting_page.png)
 
 ### 5.5 使用記錄
 
-![使用記錄](./test-reports/06_TC-USAGE-001_使用記錄/screenshot/step1_usage_page.png)
+![使用記錄](https://github.com/norraydev2/AI-AI-Minutes-/blob/main/test-reports/13_TC-USAGE-003_%E4%BD%BF%E7%94%A8%E8%A8%98%E9%8C%84%20UI/screenshot/step1_stats.png)
 
 ---
 
